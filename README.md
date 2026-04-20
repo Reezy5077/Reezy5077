@@ -8,6 +8,9 @@
 ## 🚀 Projects
 - Number Guessing Game (C++)
 - Simple Calculator (C++)
+- Mini Text Adventure Game (C++)
+- Secure Login System (C++)
+- Developed a small Indie game along with some friends (C# + Unity)
 
 
 ## 📚 Currently learning:
