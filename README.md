@@ -1,7 +1,7 @@
 ![Banner](https://i.pinimg.com/736x/20/0c/9b/200c9beea6400fc2c251cd4732228ee8.jpg)
 
 # 💫 About Me:
-Student interested in IT and Software Development<br>Learning C++ and programming fundamentals<br>Interested in logic, computers and problem solving<br>📚 Currently learning:<br><br>C++<br>Git & GitHub<br>Software basics
+📚Student interested in IT and Software Development<br>👨‍💻Learning C++ and programming fundamentals<br>Interested in logic, computers and problem solving<br>📚 Currently learning:<br><br>C++<br>Git & GitHub<br>Software basics
 
 
 ## 🌐 Socials:
