@@ -8,7 +8,7 @@
 - Number Guessing Game (C++)
 - Simple Calculator (C++)
 
-![Coding](https://cdn-icons-png.flaticon.com/512/2721/2721291.png)
+![Coding]([https://cdn-icons-png.flaticon.com/512/2721/2721291.png](https://i.pinimg.com/736x/20/0c/9b/200c9beea6400fc2c251cd4732228ee8.jpg))
 
 ## 📚 Currently learning:
 - C++
