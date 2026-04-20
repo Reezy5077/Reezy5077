@@ -8,6 +8,8 @@
 - Number Guessing Game (C++)
 - Simple Calculator (C++)
 
+![Coding](https://cdn-icons-png.flaticon.com/512/2721/2721291.png)
+
 ## 📚 Currently learning:
 - C++
 - Git & GitHub
