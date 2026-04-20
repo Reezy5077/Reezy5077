@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, 👋
 
-<!--
-**Reezy5077/Reezy5077** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Student interested in IT and Software Development  
+💻 Learning C++ and programming fundamentals  
+🧠 Interested in logic, computers and problem solving  
 
-Here are some ideas to get you started:
+## 🚀 Projects
+- Number Guessing Game (C++)
+- Simple Calculator (C++)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📚 Currently learning:
+- C++
+- Git & GitHub
+- Software basics
+
+## 📫 Contact:
+maneabrunoalex@gmail.com
