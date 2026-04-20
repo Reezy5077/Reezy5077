@@ -1,5 +1,5 @@
 ![Banner](https://i.pinimg.com/736x/20/0c/9b/200c9beea6400fc2c251cd4732228ee8.jpg)
-# Heya, 
+# Hello, 
 
  - Student interested in IT and Software Development  
  - Learning C++ and programming fundamentals  
